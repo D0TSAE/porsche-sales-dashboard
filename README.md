@@ -123,7 +123,7 @@ porsche-sales-dashboard/
 
 Após ativar o GitHub Pages, adicione aqui o link da dashboard:
 
-`https://SEU-USUARIO.github.io/porsche-sales-dashboard/`
+`(https://d0tsae.github.io/porsche-sales-dashboard/)/`
 
 ## Como executar localmente
 
