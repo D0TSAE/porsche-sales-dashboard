@@ -121,9 +121,9 @@ porsche-sales-dashboard/
 
 ## Dashboard publicada
 
-Após ativar o GitHub Pages, adicione aqui o link da dashboard:
+Após ativar o GitHub Pages, aqui o link da dashboard:
 
-`(https://d0tsae.github.io/porsche-sales-dashboard/)/`
+`https://d0tsae.github.io/porsche-sales-dashboard/`
 
 ## Como executar localmente
 
